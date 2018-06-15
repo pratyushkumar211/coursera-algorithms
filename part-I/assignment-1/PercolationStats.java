@@ -1,3 +1,4 @@
+
 public class PercolationStats {
 	public PercolationStats(int n, int trials)
 	public double mean()
